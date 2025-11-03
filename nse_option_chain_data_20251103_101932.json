@@ -1,0 +1,602 @@
+{
+  "fetched_at": "2025-11-03T10:20:24.896034",
+  "total_symbols": 100,
+  "data": [
+    {
+      "symbol": "21STCENMGM",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "20MICRONS",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "3IINFOLTD",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "360ONE",
+      "oi_current": 3415,
+      "oi_previous": 3235,
+      "oi_change": 180,
+      "status": "success"
+    },
+    {
+      "symbol": "3MINDIA",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "3PLAND",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "63MOONS",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "5PAISA",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AAATECH",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "A2ZINFRA",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AADHARHFC",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AAKASH",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AARON",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AARTECH",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AAREYDRUGS",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AARTIDRUGS",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AARTIIND",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AARTISURF",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AARTIPHARM",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AARVI",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AAVAS",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABBOTINDIA",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABAN",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABCAPITAL",
+      "oi_current": 11967,
+      "oi_previous": 10835,
+      "oi_change": 1132,
+      "status": "success"
+    },
+    {
+      "symbol": "ABCOTS",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABB",
+      "oi_current": 10629,
+      "oi_previous": 10234,
+      "oi_change": 395,
+      "status": "success"
+    },
+    {
+      "symbol": "ABDL",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABFRL",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABINFRA",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABLBL",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABREL",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABMINTLLTD",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ACC",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ACCELYA",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ACCURACY",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ACE",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ABSLAMC",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ACEINTEG",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ACI",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ACL",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ADANIENSOL",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ACMESOLAR",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ACLGATI",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ACUTAAS",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ADL",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ADOR",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ADFFOODS",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "ADROITINFO",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ADVANCE",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "oi_current": 35909,
+      "oi_previous": 35356,
+      "oi_change": 553,
+      "status": "success"
+    },
+    {
+      "symbol": "ADANIENT",
+      "oi_current": 50135,
+      "oi_previous": 46260,
+      "oi_change": 3875,
+      "status": "success"
+    },
+    {
+      "symbol": "ADVANIHOTR",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AEGISLOG",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ADVENZYMES",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AEROFLEX",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AEGISVOPAK",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AEROENTER",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AERONEU",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AETHER",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AFCONS",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ADSL",
+      "oi_current": 0,
+      "oi_previous": 0,
+      "oi_change": 0,
+      "status": "success"
+    },
+    {
+      "symbol": "AFFORDABLE",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AFFLE",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AFIL",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AGARIND",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AFSL",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AGI",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AGARWALEYE",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AGRITECH",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AGROPHOS",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AGIIL",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AHCL",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AGSTRA",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AHLEAST",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AHLUCONT",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AHLADA",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AIAENG",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AIIL",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AIROLAM",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AIRAN",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AJANTPHARM",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AJAXENGG",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AJOONI",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AKG",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AKI",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AKASH",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AJMERA",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AKSHAR",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AKUMS",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AKSHOPTFBR",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AKSHARCHEM",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "AKZOINDIA",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ALEMBICLTD",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ALIVUS",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ALICON",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ALANKIT",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ALBERTDAVD",
+      "error": "HTTP 403",
+      "status": "failed"
+    },
+    {
+      "symbol": "ALKALI",
+      "error": "HTTP 403",
+      "status": "failed"
+    }
+  ]
+}
